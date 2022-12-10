@@ -1,5 +1,5 @@
 # Training App (hooks)
-TAP **[PREVIEW LINK](____________)** TO SEE DEMO
+TAP **[PREVIEW LINK](https://andriifront.github.io/reect-hooks-extended/)** TO SEE DEMO
 
 
 ## Technologies
@@ -15,8 +15,8 @@ This application covers the main basic hooks
 
 ## Links
 Video: [link](https://www.youtube.com/watch?v=9KJxaFHotqI)
-WebPage: [link](___________)
-Code: [link](_____________)
+WebPage: [link](https://andriifront.github.io/reect-hooks-extended/)
+Code: [link](https://github.com/andriiFront/reect-hooks-extended)
 
 
 ## My Contacts
